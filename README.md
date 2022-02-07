@@ -3,7 +3,14 @@
 Yo
 
 ### Stats
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lino-Ren" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lino-Ren" />
+</a>
 
+<br>
 
 ### Who is me? 
 I'm a student studying HTML and CSS.
