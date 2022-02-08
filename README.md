@@ -1,13 +1,13 @@
 ## Hello~ 👋
 
 Yo
-<div>
+<div align="left">
 ## Stats
   <a>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lino-Ren" />
+   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lino-Ren" />
   </a>
   <a>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lino-Ren" />
+   <img alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lino-Ren" />
   </a>
 </div>
 
