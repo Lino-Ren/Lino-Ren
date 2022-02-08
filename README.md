@@ -3,7 +3,7 @@
 Yo
 
 ## Stats
-<div align="left">
+<div align="top">
   <a>
    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Lino-Ren" />
   </a>
