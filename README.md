@@ -13,6 +13,6 @@ Yo
 </div>
 
 
-## Who is me?
+## About me
 <p>I'm a student studying HTML and CSS. MAYBE.</p>
 <p>But I'm not good at coding, so please watch me over...</p>
